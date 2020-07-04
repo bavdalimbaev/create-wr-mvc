@@ -1,2 +1,2 @@
 # quick-create-mvc
-this not project? simple started file
+Это не проект, просто набор файлов и папок
